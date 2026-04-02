@@ -1,5 +1,3 @@
 Faculdade Uniesp
 Curso: Ciências da Computação
-Ailton Menezes Cunha Neto
-Tópicos essenciais para a programação
-
+respondendo a lista de exercício do Github
